@@ -1,0 +1,14 @@
+import retrofit2.http.GET
+
+interface ButterCmsApi {
+
+    @GET("your_api_endpoint") // Replace with your actual Butter CMS API endpoint
+    suspend fun getCoreFeatures(): List<CoreFeatureModel>
+
+    @GET("product_features_endpoint") // Replace with your actual Butter CMS product features API endpoint
+    suspend fun getProductFeatures(): List<ProductFeatureModel>
+
+    @GET("products_endpoint") // Replace with your actual Butter CMS products API endpoint
+    suspend fun getProducts(): List<ProductModel>
+    
+}
