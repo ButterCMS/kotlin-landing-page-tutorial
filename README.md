@@ -2,7 +2,7 @@
 How to Build a Landing Page with Kotlin &amp; Butter
 
 ## Important Note
-This project was created as an example use case of ButterCMS in conjunction with a blog article, <LINK TO BLOG ARTICLE>, and will not be actively maintained.
+This project was created as an example use case of ButterCMS in conjunction with a blog article, [How to Build a Landing Page With Kotlin: Step-By-Step Guide](https://buttercms.com/blog/kotlin-landing-page/), and will not be actively maintained.
 
 If you're interested in exploring the best, most up-to-date way to integrate Butter into <FRAMEWORK> Projects, you can check out the following resources:
 
